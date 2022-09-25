@@ -359,14 +359,16 @@
 
 @media (max-width: 767px) {
   .u-section-4 .u-custom-html-1 {
+    margin-right: -126px;
+    margin-left: 126px;
     width: 540px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-4 .u-custom-html-1 {
-    margin-right: 0;
-    margin-left: -27px;
+    margin-right: -23px;
+    margin-left: 23px;
     width: 340px;
   }
 } .u-section-5 {
